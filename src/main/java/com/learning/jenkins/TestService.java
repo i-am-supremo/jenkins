@@ -7,6 +7,6 @@ public class TestService {
 
 
     public String returnTestData() {
-        return "Hello User Getting Data From Service";
+        return "Hello User Getting Data From Services";
     }
 }
